@@ -29,7 +29,7 @@ A web-based application designed to manage and streamline the testing, tracking,
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/niv-testing-management.git
+   git clone https://github.com/Kavya123k/niv-testing-management.git
    cd niv-testing-management
 
 📂 Folder Structure
